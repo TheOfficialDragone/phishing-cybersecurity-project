@@ -1,6 +1,6 @@
 # phishing-cybersecurity-project
 
-## ⚠️This project is for educational purposes only. Do not use the code for malicious activities⚠️
+## ⚠️This project is for educational and academic purposes only. Do not use the code for malicious activities⚠️
 
 ## Authors: Rocco Carpi, Riccardo Rossi
 
